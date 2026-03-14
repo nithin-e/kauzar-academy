@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* optional reset */
+body {
+  margin: 0;
+}
