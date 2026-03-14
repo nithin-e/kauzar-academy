@@ -1,0 +1,1 @@
+Kauzar Academy is a personalized educational platform designed to deliver excellence in learning. The platform provides students with a tailored academic experience — combining expert guidance, structured courses, and interactive tools to help learners achieve their goals.
